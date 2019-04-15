@@ -1,0 +1,14 @@
+.main-header {
+  background-image: url("../images/background.jpg");
+  height: 350px;
+}
+
+.main-text {
+  color: white;
+  font-size: 30px;
+}
+
+.main-header-font {
+  color: white;
+  font-size: 55px;
+}
